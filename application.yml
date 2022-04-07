@@ -7,3 +7,6 @@ eureka:
     instance:
       hostname: localhost
       prefer-ip-address: true
+
+myprops:
+  envProp: default
