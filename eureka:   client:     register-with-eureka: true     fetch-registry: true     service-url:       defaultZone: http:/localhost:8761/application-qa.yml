@@ -10,4 +10,4 @@ eureka:
       prefer-ip-address: true
       
 myprops:
-  env: qa
+  envProp: qa
